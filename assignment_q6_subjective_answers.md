@@ -6,4 +6,6 @@
 
 > Write the answers for the subjective questions here
 
-![Que 6](https://user-images.githubusercontent.com/45046442/74933310-b537e700-5409-11ea-9787-3de211fad2f7.png)
+![image](https://user-images.githubusercontent.com/45046442/74966329-dfef6300-543c-11ea-8cb1-d7581fd4ceeb.png)
+
+Bcause of presence of outlier we observe for n = 100 a higher theta value for degree = 9.
